@@ -1,15 +1,8 @@
 ###################
-caffe_both_twenty
+Monitoring Suhu dan pH API
 ###################
 
-Web Admin dan Rest API Aplikasi Caffe Both Twenty Berbasis Mobile
-
-*******************
-Anggota Kelompok
-*******************
-- Renol Nindi Kara N
-- Afifah Retno Sari
-- Idang Hospita
+Rest Server API Monitoring Suhu dan pH NodeMCU
 
 ###################
 What is CodeIgniter
