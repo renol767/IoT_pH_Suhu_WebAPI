@@ -43,7 +43,8 @@ require APPPATH . 'libraries/Format.php';
      public function index_post(){
         $data = [
             'temp' => $this->post('temp'),
-            'hum' => $this->post('hum')
+            'hum' => $this->post('hum'),
+            'ph' => $this->post('ph')
         ];
 
         if ($this->sensor->sendData($data) > 0){
